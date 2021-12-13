@@ -17,3 +17,12 @@ Discord Nitro QR Scam hacking Discord account and bypassing 2FA authentication.
 To prevent AVs from deleting files I protected the zip file with a password.
 
 The password is `NitroQRScam`
+
+## Images
+![QR Scam](https://user-images.githubusercontent.com/59311016/145835135-4a03cde3-d4df-4519-84a0-428ce2bf7a27.png)
+
+Discord Nitro QR Sample (DON'T SCAN IT!!!)
+
+![image](https://user-images.githubusercontent.com/59311016/145835398-64b039d9-aaa5-431c-b35a-5d431ad3d57c.png)
+
+QR Generator terminal
